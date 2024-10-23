@@ -36,7 +36,7 @@ export default function App() {
   
   useEffect(() => {
 
-    let tg = window.Telegram.WebApp;
+    // let tg = window.Telegram.WebApp;
 
     const calculateSize = () => {
       const newSize = Math.floor(window.innerWidth * 0.6); // 80% ширины экрана
