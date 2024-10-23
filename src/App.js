@@ -68,7 +68,7 @@ export default function App() {
 // };
 
   return (
-    <div className="text-3xl font-bold w-screen h-full min-h-screen justify-between items-center bg-stone-800 bg-gradient-radial flex flex-col">
+    <div className="text-3xl font-bold w-screen h-full min-h-screen justify-between items-center bg-stone-800 bg-gradient-radial flex flex-col overflow-hidden">
 
       <div className="h-auto w-auto">
         <div className="mt-20 h-auto w-auto rounded-lg border-4 border-sky-300 bg-sky-300 neon-glow">
@@ -91,13 +91,13 @@ export default function App() {
 
       <div className="flex mt-5 items-center w-4/6 justify-between">
         
+        <div className="flex flex-col">
+          <button onClick={() => handleDirectionChange(38)} className="control-button font-bold font-mine">↑</button>
+          <button onClick={() => handleDirectionChange(40)} className="control-button font-bold font-mine">↓</button>
+        </div>
         <div className="">
           <button onClick={() => handleDirectionChange(37)} className="control-button font-bold font-mine">←</button>
           <button onClick={() => handleDirectionChange(39)} className="control-button font-bold font-mine">→</button>
-        </div>
-        <div className="">
-          <button onClick={() => handleDirectionChange(38)} className="control-button font-bold font-mine">↑</button>
-          <button onClick={() => handleDirectionChange(40)} className="control-button font-bold font-mine">↓</button>
         </div>
         
       </div>
