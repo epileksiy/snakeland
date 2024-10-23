@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/snakeland/static/css/main.44e40e78.css",
+    "main.css": "/snakeland/static/css/main.25e4ae8c.css",
     "main.js": "/snakeland/static/js/main.0d94e0d7.js",
     "static/js/453.3b7286c2.chunk.js": "/snakeland/static/js/453.3b7286c2.chunk.js",
     "static/media/mine.ttf": "/snakeland/static/media/mine.84739bb040356b935841.ttf",
@@ -8,12 +8,12 @@
     "static/media/pix.ttf": "/snakeland/static/media/pix.3f82c0db30322a5edd68.ttf",
     "static/media/pixel.ttf": "/snakeland/static/media/pixel.5f10c536c1460ade11a5.ttf",
     "index.html": "/snakeland/index.html",
-    "main.44e40e78.css.map": "/snakeland/static/css/main.44e40e78.css.map",
+    "main.25e4ae8c.css.map": "/snakeland/static/css/main.25e4ae8c.css.map",
     "main.0d94e0d7.js.map": "/snakeland/static/js/main.0d94e0d7.js.map",
     "453.3b7286c2.chunk.js.map": "/snakeland/static/js/453.3b7286c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44e40e78.css",
+    "static/css/main.25e4ae8c.css",
     "static/js/main.0d94e0d7.js"
   ]
 }
