@@ -22,12 +22,12 @@ export default function App() {
     // Логика для обработки бонуса (например, обновление состояния)
     console.log("Получены очки:", score);
 
-    let data = {
-      nickname: tg.initData,
-      score: score
-    }
+    // let data = {
+    //   nickname: tg.initData,
+    //   score: score
+    // }
 
-    tg.sendData(JSON.stringify(data));
+    // tg.sendData(JSON.stringify(data));
   };
 
   const updateScore = (newScore) => {
