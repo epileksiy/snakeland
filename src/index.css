@@ -1,0 +1,153 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Pixel';
+  src: url('./assets/pixel.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pix';
+  src: url('./assets/pix.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mine';
+  src: url('./assets/mine.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.text-outline-orange {
+  text-shadow: 
+    -3px -2px 0 #f97316, /* оранжевый (#f97316) — Tailwind класс text-orange-500 */
+    2px -2px 0 #f97316,
+    -2px 3px 0 #f97316,
+    3px 2px 0 #f97316;
+}
+
+.neon-glow {
+  box-shadow: 0 0 5px #55a4ff, /* основное свечение синего цвета */
+              0 0 10px #55a4ff, 
+              0 0 15px #55a4ff, 
+              0 0 20px #55a4ff;
+}
+
+.bg-gradient-radial {
+  background: radial-gradient(circle, rgba(0, 0, 0, 0.5) 10%, rgb(22, 22, 22) 60%);/*
+  * Created with https://www.css-gradient.com
+  * Gradient link: https://www.css-gradient.com/?c1=303030&c2=010101&gt=r&gd=dcc
+  */
+  background: #303030;
+  background: radial-gradient(at center, #252525, #010101);
+}
+
+.ledbg {
+  background-image: url('./assets/led.jpg');
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  background-blend-mode:multiply;
+}
+
+
+.grid {
+  box-sizing: content-box;
+  padding: 0;
+  border-top: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid-cell {
+  border-left: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.grid-cell--food {
+  background-color: hsl(335, 100%, 50%);
+  background-image: radial-gradient(circle farthest-side at center, hsl(166, 100%, 90%) 0%, hsl(335, 100%, 50%) 100%);
+
+}
+
+.grid-cell--snake {
+  background-color: hsl(159, 100%, 50%);
+  background-image: radial-gradient(circle farthest-side at center, hsl(166, 100%, 90%) 0%, hsl(159, 100%, 50%) 100%);
+}
+
+.snake-app {
+  position: relative;
+  margin: 10px auto;
+  &:focus {
+    outline: none;
+  }
+}
+
+.snake-app__overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background-color: hsla(0, 0, 0, .9);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.2rem;
+}
+
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
+
+.buttonsnake {
+  background-color : #fbbf24;
+  color: white;
+  border-radius: 3px;
+  border: 4px solid #f97316;
+  padding: .75rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 0 10px black;
+}
+
+.control-button {
+  background-color: rgb(251, 253, 223);
+  color: rgb(0, 0, 0);
+  border: 4px solid rgb(190, 178, 105);
+  border-radius: 4px;
+  /* padding: 10px 15px; */
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  width: 40px;
+  height: 40px;
+
+  
+}
+
+.control-button:hover {
+  background-color: rgb(251, 253, 223);
+}
