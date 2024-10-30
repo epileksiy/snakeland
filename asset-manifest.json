@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/snakeland/static/css/main.1a1847be.css",
-    "main.js": "/snakeland/static/js/main.512ff693.js",
+    "main.css": "/snakeland/static/css/main.241d4cc3.css",
+    "main.js": "/snakeland/static/js/main.8defff32.js",
     "static/js/453.3b7286c2.chunk.js": "/snakeland/static/js/453.3b7286c2.chunk.js",
     "static/media/mine.ttf": "/snakeland/static/media/mine.84739bb040356b935841.ttf",
     "static/media/led.jpg": "/snakeland/static/media/led.8de4d1eed55ce9e9a404.jpg",
     "static/media/pix.ttf": "/snakeland/static/media/pix.3f82c0db30322a5edd68.ttf",
     "static/media/pixel.ttf": "/snakeland/static/media/pixel.5f10c536c1460ade11a5.ttf",
     "index.html": "/snakeland/index.html",
-    "main.1a1847be.css.map": "/snakeland/static/css/main.1a1847be.css.map",
-    "main.512ff693.js.map": "/snakeland/static/js/main.512ff693.js.map",
+    "main.241d4cc3.css.map": "/snakeland/static/css/main.241d4cc3.css.map",
+    "main.8defff32.js.map": "/snakeland/static/js/main.8defff32.js.map",
     "453.3b7286c2.chunk.js.map": "/snakeland/static/js/453.3b7286c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a1847be.css",
-    "static/js/main.512ff693.js"
+    "static/css/main.241d4cc3.css",
+    "static/js/main.8defff32.js"
   ]
 }
