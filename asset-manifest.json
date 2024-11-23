@@ -1,19 +1,32 @@
 {
   "files": {
-    "main.css": "/snakeland/static/css/main.96f9e540.css",
-    "main.js": "/snakeland/static/js/main.ff31a427.js",
+    "main.css": "/snakeland/static/css/main.8785782a.css",
+    "main.js": "/snakeland/static/js/main.af588265.js",
     "static/js/453.3b7286c2.chunk.js": "/snakeland/static/js/453.3b7286c2.chunk.js",
     "static/media/mine.ttf": "/snakeland/static/media/mine.84739bb040356b935841.ttf",
+    "static/media/mam1.png": "/snakeland/static/media/mam1.e92677df6d16902031a8.png",
+    "static/media/ribay2.png": "/snakeland/static/media/ribay2.9fba0fb21fe64294e366.png",
+    "static/media/suli.png": "/snakeland/static/media/suli.560478f25c5147e0c315.png",
+    "static/media/uno.png": "/snakeland/static/media/uno.3b4f357ed7f150807d28.png",
+    "static/media/katya.png": "/snakeland/static/media/katya.3253589dc5583a7075e8.png",
+    "static/media/mam2.png": "/snakeland/static/media/mam2.906ccb086bf304b23f5e.png",
+    "static/media/bakl.png": "/snakeland/static/media/bakl.45fbb5b15058a5c75c93.png",
+    "static/media/prya.png": "/snakeland/static/media/prya.f80cef48c0d488bfa5d1.png",
+    "static/media/ter.png": "/snakeland/static/media/ter.01a31c9fef9cd99f60f1.png",
+    "static/media/mau.png": "/snakeland/static/media/mau.902fbc4ca58b95ee5b36.png",
     "static/media/led.jpg": "/snakeland/static/media/led.8de4d1eed55ce9e9a404.jpg",
+    "static/media/ribay1.png": "/snakeland/static/media/ribay1.a72f38bea2dcf5fbb4f8.png",
+    "static/media/leg.png": "/snakeland/static/media/leg.e974a63ba87a30be87c6.png",
     "static/media/pix.ttf": "/snakeland/static/media/pix.3f82c0db30322a5edd68.ttf",
+    "static/media/volg.png": "/snakeland/static/media/volg.2ba147ea1b15ffd08508.png",
     "static/media/pixel.ttf": "/snakeland/static/media/pixel.5f10c536c1460ade11a5.ttf",
     "index.html": "/snakeland/index.html",
-    "main.96f9e540.css.map": "/snakeland/static/css/main.96f9e540.css.map",
-    "main.ff31a427.js.map": "/snakeland/static/js/main.ff31a427.js.map",
+    "main.8785782a.css.map": "/snakeland/static/css/main.8785782a.css.map",
+    "main.af588265.js.map": "/snakeland/static/js/main.af588265.js.map",
     "453.3b7286c2.chunk.js.map": "/snakeland/static/js/453.3b7286c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96f9e540.css",
-    "static/js/main.ff31a427.js"
+    "static/css/main.8785782a.css",
+    "static/js/main.af588265.js"
   ]
 }
