@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/snakeland/static/css/main.0ca9273d.css",
-    "main.js": "/snakeland/static/js/main.a191eb6f.js",
+    "main.css": "/snakeland/static/css/main.acd1fef5.css",
+    "main.js": "/snakeland/static/js/main.65310b00.js",
     "static/js/453.3b7286c2.chunk.js": "/snakeland/static/js/453.3b7286c2.chunk.js",
     "static/media/mine.ttf": "/snakeland/static/media/mine.84739bb040356b935841.ttf",
     "static/media/ribay2.png": "/snakeland/static/media/ribay2.2b1007517b752145a87a.png",
@@ -16,12 +16,12 @@
     "static/media/bakl.png": "/snakeland/static/media/bakl.3a54ac4390180f9e2e73.png",
     "static/media/prya.png": "/snakeland/static/media/prya.4b5a3bdf18a05738f198.png",
     "index.html": "/snakeland/index.html",
-    "main.0ca9273d.css.map": "/snakeland/static/css/main.0ca9273d.css.map",
-    "main.a191eb6f.js.map": "/snakeland/static/js/main.a191eb6f.js.map",
+    "main.acd1fef5.css.map": "/snakeland/static/css/main.acd1fef5.css.map",
+    "main.65310b00.js.map": "/snakeland/static/js/main.65310b00.js.map",
     "453.3b7286c2.chunk.js.map": "/snakeland/static/js/453.3b7286c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ca9273d.css",
-    "static/js/main.a191eb6f.js"
+    "static/css/main.acd1fef5.css",
+    "static/js/main.65310b00.js"
   ]
 }
