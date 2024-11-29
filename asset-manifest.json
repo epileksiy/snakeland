@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/snakeland/static/css/main.acd1fef5.css",
-    "main.js": "/snakeland/static/js/main.65310b00.js",
+    "main.js": "/snakeland/static/js/main.79bc2f40.js",
     "static/js/453.3b7286c2.chunk.js": "/snakeland/static/js/453.3b7286c2.chunk.js",
     "static/media/mine.ttf": "/snakeland/static/media/mine.84739bb040356b935841.ttf",
+    "static/media/harcho.png": "/snakeland/static/media/harcho.d5d554c25d4e383c237e.png",
+    "static/media/sunday.png": "/snakeland/static/media/sunday.b9be24985fab811fe5c1.png",
     "static/media/ribay2.png": "/snakeland/static/media/ribay2.2b1007517b752145a87a.png",
     "static/media/mam1.png": "/snakeland/static/media/mam1.65f1fddd5b5f7973af84.png",
     "static/media/led.jpg": "/snakeland/static/media/led.8de4d1eed55ce9e9a404.jpg",
     "static/media/pix.ttf": "/snakeland/static/media/pix.3f82c0db30322a5edd68.ttf",
+    "static/media/ginza.png": "/snakeland/static/media/ginza.c6eb700e6501b56dff42.png",
     "static/media/pixel.ttf": "/snakeland/static/media/pixel.5f10c536c1460ade11a5.ttf",
     "static/media/katya.png": "/snakeland/static/media/katya.559872c7f78a0c8c05bf.png",
     "static/media/mam2.png": "/snakeland/static/media/mam2.cbae934215f83bddfd9e.png",
@@ -17,11 +20,11 @@
     "static/media/prya.png": "/snakeland/static/media/prya.4b5a3bdf18a05738f198.png",
     "index.html": "/snakeland/index.html",
     "main.acd1fef5.css.map": "/snakeland/static/css/main.acd1fef5.css.map",
-    "main.65310b00.js.map": "/snakeland/static/js/main.65310b00.js.map",
+    "main.79bc2f40.js.map": "/snakeland/static/js/main.79bc2f40.js.map",
     "453.3b7286c2.chunk.js.map": "/snakeland/static/js/453.3b7286c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acd1fef5.css",
-    "static/js/main.65310b00.js"
+    "static/js/main.79bc2f40.js"
   ]
 }
