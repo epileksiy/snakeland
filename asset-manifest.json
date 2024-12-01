@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/snakeland/static/css/main.acd1fef5.css",
-    "main.js": "/snakeland/static/js/main.79338d11.js",
+    "main.js": "/snakeland/static/js/main.f88135e4.js",
     "static/js/453.3b7286c2.chunk.js": "/snakeland/static/js/453.3b7286c2.chunk.js",
     "static/media/mine.ttf": "/snakeland/static/media/mine.84739bb040356b935841.ttf",
     "static/media/harcho.png": "/snakeland/static/media/harcho.d5d554c25d4e383c237e.png",
@@ -20,11 +20,11 @@
     "static/media/prya.png": "/snakeland/static/media/prya.4b5a3bdf18a05738f198.png",
     "index.html": "/snakeland/index.html",
     "main.acd1fef5.css.map": "/snakeland/static/css/main.acd1fef5.css.map",
-    "main.79338d11.js.map": "/snakeland/static/js/main.79338d11.js.map",
+    "main.f88135e4.js.map": "/snakeland/static/js/main.f88135e4.js.map",
     "453.3b7286c2.chunk.js.map": "/snakeland/static/js/453.3b7286c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acd1fef5.css",
-    "static/js/main.79338d11.js"
+    "static/js/main.f88135e4.js"
   ]
 }
